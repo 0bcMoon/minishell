@@ -38,3 +38,5 @@ libraries in `lib`; this is the layout used by the repository's build flags.
 ```sh
 make
 ./minishell
+```
+
